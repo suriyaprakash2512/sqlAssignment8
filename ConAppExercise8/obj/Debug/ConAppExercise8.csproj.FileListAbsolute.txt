@@ -1,0 +1,7 @@
+C:\phase 3\day8\Exercise 8\ConAppExercise8\bin\Debug\ConAppExercise8.exe.config
+C:\phase 3\day8\Exercise 8\ConAppExercise8\bin\Debug\ConAppExercise8.exe
+C:\phase 3\day8\Exercise 8\ConAppExercise8\bin\Debug\ConAppExercise8.pdb
+C:\phase 3\day8\Exercise 8\ConAppExercise8\obj\Debug\ConAppExercise8.csproj.AssemblyReference.cache
+C:\phase 3\day8\Exercise 8\ConAppExercise8\obj\Debug\ConAppExercise8.csproj.CoreCompileInputs.cache
+C:\phase 3\day8\Exercise 8\ConAppExercise8\obj\Debug\ConAppExercise8.exe
+C:\phase 3\day8\Exercise 8\ConAppExercise8\obj\Debug\ConAppExercise8.pdb

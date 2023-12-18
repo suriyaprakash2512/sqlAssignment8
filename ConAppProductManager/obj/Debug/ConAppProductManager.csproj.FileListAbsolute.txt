@@ -1,0 +1,7 @@
+C:\phase 3\day8\Exercise 8\ConAppProductManager\bin\Debug\ConAppProductManager.exe.config
+C:\phase 3\day8\Exercise 8\ConAppProductManager\bin\Debug\ConAppProductManager.exe
+C:\phase 3\day8\Exercise 8\ConAppProductManager\bin\Debug\ConAppProductManager.pdb
+C:\phase 3\day8\Exercise 8\ConAppProductManager\obj\Debug\ConAppProductManager.csproj.AssemblyReference.cache
+C:\phase 3\day8\Exercise 8\ConAppProductManager\obj\Debug\ConAppProductManager.csproj.CoreCompileInputs.cache
+C:\phase 3\day8\Exercise 8\ConAppProductManager\obj\Debug\ConAppProductManager.exe
+C:\phase 3\day8\Exercise 8\ConAppProductManager\obj\Debug\ConAppProductManager.pdb
